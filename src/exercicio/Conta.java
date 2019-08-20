@@ -4,7 +4,7 @@ public class Conta {
 	private int numeroConta;
 	private String titular;
 	protected double saldo;
-	
+	private int menino = 0;
 	
 	public Conta() {
 		
